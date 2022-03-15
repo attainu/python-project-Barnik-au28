@@ -1,0 +1,43 @@
+PYTHON PROJECT REPORT
+PROJECT TERM MARCH-2022
+
+SUBMITTED BY
+NAME : BARNIK BHANDRAL
+BATCH NAME : FSD-November-2021 
+ROLL NUMBER : AUFS028055
+
+1. INTRODUCTION
+2. KEY FEATURES
+3. PYTHON FILE
+4. LANGUAGE USED
+5. FUTURE ASPECTS
+
+
+
+1. INTRODUCTION
+
+The maze solver project is used to find the find the path of a any given maze. The project has a made made up of 0 and 1 where 0 signifies that path is blocked and 1 signifies that path is available.
+The purpose of maze solver is to find the path from starting point to the which can be given as a source to the destination which is given as the destination. if there is a path available then we need to 
+show that path in output file and if there is no path available then we have to return -1 which signifies, there is no possible path to go from starting point to destination, the maze is unsolveable.
+
+
+2. KEY FEATURES:
+
+In the project we need to provide the input to the algorithm for a file name "inputfile.txt" and this file is worked on by the algorithm and the output of that algorithm is shown in "output.txt" file.
+the inputfile contains the maze that has to be shown and the outputfile gives the path and converts all the other elements to zero to show us the path that can be used to solve the maze.
+
+3. FILES USED
+
+	1. solvemaze.py
+	2. inputfile.txt
+	3. outputfile.txt
+
+4. LANGUAGE USED
+	
+	1. Python 
+
+5. FUTURE ASPECTS
+
+The project can be modified by making it in a Graphical use inteface where the user can se hoe the maze is being solved. Animation can also be added to the project so as to make it much more interactive.
+It can also be provided that a use can denine the starting and ending oint by clicking on the maze itself.
+	
